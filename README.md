@@ -1,6 +1,7 @@
 # Real-Time M&A Predictive Analytics Dashboard
 
 A real-time data pipeline and dashboard to forecast Mergers & Acquisitions (M&A) deal success using company financials, market data, macroeconomic indicators, and news sentiment.
+![image](https://github.com/user-attachments/assets/00b86b33-b953-48b8-8a48-7066c115b7ad)
 
 ### Why this project?
 It empowers analysts to:
