@@ -78,6 +78,8 @@ Place your manda-credentials.json in the root folder.
 ```bash
 python main.py
 ```
+Open the Power BI Dashboard:
+- Double-click M & A analysis dashboard.pbix to launch the interactive dashboard in Power BI Desktop.
 - This script fetches real-time data, runs the M&A prediction model, and updates the dashboard via Google Sheets automatically every 6 hours.
 
 
